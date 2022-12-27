@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IQHotel", "IQHotel\IQHotel.csproj", "{EA4B5F6F-167E-4EF1-9705-AC5C836CBD60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B8B514CD-D6D6-47A6-91C1-136A71C0E51A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4B5F6F-167E-4EF1-9705-AC5C836CBD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4B5F6F-167E-4EF1-9705-AC5C836CBD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4B5F6F-167E-4EF1-9705-AC5C836CBD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4B5F6F-167E-4EF1-9705-AC5C836CBD60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C13881-61BE-465A-BEA0-A05EEE1E5E20}
+	EndGlobalSection
+EndGlobal
