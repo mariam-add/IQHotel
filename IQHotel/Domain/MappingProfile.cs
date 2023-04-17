@@ -6,7 +6,7 @@ namespace IQHotel.Domain
     {
         public MappingProfile()
         {
-            // CreateMap<MainEntity, DtoEntity>();
+            // Like this => CreateMap<MainEntity, DtoEntity>();
 
             //CreateMap<UserProfile, UserManager>().ReverseMap();
             CreateMap<User, UserManager>().ReverseMap();

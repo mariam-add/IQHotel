@@ -3,7 +3,7 @@ using System;
 
 namespace IQHotel.Domain
 {
-    public class Customer : Master
+    public class Customer
     {
         public int Id { get; set; }
         public string FullName { get; set; }
